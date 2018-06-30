@@ -41,6 +41,7 @@
 		"Litecoin Testnet": "2.0.7",
 		"Monacoin": "2.0.5",
 		"Namecoin": "2.0.5",
+		"Rubycoin": "2.3.2",
 		"Vertcoin": "2.0.5",
 		"Viacoin": "2.0.7",
 		"Zcash": "2.0.7",
@@ -48,7 +49,6 @@
 		"Zcoin": "2.0.7",
 		"Zcoin Testnet": "2.0.7",
 		"Zencash": "2.0.8",
-		"Rubycoin": "2.3.2",
 	},
 	"connect": {
 		"Bitcoin": true,
