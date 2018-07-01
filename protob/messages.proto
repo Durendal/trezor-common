@@ -662,6 +662,7 @@ message SignTx {
 	optional uint32 lock_time = 5 [default=0];		// transaction lock_time
 	optional uint32 expiry = 6;				// only for Decred and Zcash
 	optional bool overwintered = 7;				// only for Zcash
+  optional uint32 tx_time = 8;          // only for PoS coins deriving from peercoin
 }
 
 /**
